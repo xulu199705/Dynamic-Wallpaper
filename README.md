@@ -1,7 +1,7 @@
 # Dynamic-Wallpaper
 
-这个仓库("`Dynamic-Wallpaper`")是我自己编写的壁纸；一天内，它会随着时间进行变化。在标准[MIT协议](../LICENSE)许可下，任何人都可以获取该项目的源代码。  
-This repository("`Dynamic-Wallpaper`") is where I develop a wallpaper which will change by time in a day. This source code is available to everyone under the standard [MIT license](../LICENSE).
+这个仓库("`Dynamic-Wallpaper`")是我自己编写的壁纸；一天内，它会随着时间进行变化。在标准[MIT协议](./LICENSE)许可下，任何人都可以获取该项目的源代码。  
+This repository("`Dynamic-Wallpaper`") is where I develop a wallpaper which will change by time in a day. This source code is available to everyone under the standard [MIT license](./LICENSE).
 
 ## 目录/Table of Contents
 
@@ -29,4 +29,4 @@ This repository("`Dynamic-Wallpaper`") is where I develop a wallpaper which will
 
 ## 使用许可/License
 
-[MIT © DarkBlue.](../LICENSE)
+[MIT © DarkBlue.](./LICENSE)
